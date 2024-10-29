@@ -5,8 +5,6 @@
 ## Aggelos Konstantinos Chatzopoulos
 
 
-
-
 ## Problem statement:
 
 Convert an RGB888 image to an RGB565 image.
