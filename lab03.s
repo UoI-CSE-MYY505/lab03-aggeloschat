@@ -122,3 +122,4 @@ outColumnl:
     j    rowl
 outRowl:
     jalr zero, ra, 0
+  jalr zero, ra, 0
